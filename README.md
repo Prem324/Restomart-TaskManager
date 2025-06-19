@@ -7,9 +7,9 @@ A full-stack Task Manager application that allows users to create, edit, delete,
 ## 📁 Repository Structure
 
 ```
-your-repo-name/
+Restomart-TaskManager/
 ├── backend/        # Node.js, Express, SQLite, TypeORM
-└── frontend/       # Next.js App Router, Tailwind CSS
+└── frontend/       # Next.js App Router, TypeScript, Tailwind CSS
 ```
 
 ---
@@ -150,9 +150,19 @@ Frontend will be available at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📸 Screenshots / Demo (Optional)
+## 📸 Screenshots / Demo
 
-_Add screenshots or link to a demo video here._
+### Home Page
+
+![Home Screenshot](https://res.cloudinary.com/dlakv8a0n/image/upload/v1750316254/home-page.png)
+
+### Add Task
+
+![Add Task Screenshot](https://res.cloudinary.com/dlakv8a0n/image/upload/v1750316254/add-page.png)
+
+### Edit Task
+
+![Edit Task Screenshot](https://res.cloudinary.com/dlakv8a0n/image/upload/v1750316254/edit-page.png)
 
 ---
 
